@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-# 🎥 My Favorite Series: **Stranger Things**
+#  My Favorite Series: **Stranger Things**
 
 ##  Overview
 **Stranger Things** is a science fiction and horror series created by *The Duffer Brothers*.  
@@ -17,7 +17,7 @@ The show mixes **mystery**, **friendship**, and **sci-fi adventure**.
 
 ---
 
-### 🌟 Why I Like It
+###  Why I Like It
 > “Friends don’t lie.” – *Eleven*
 
 I like *Stranger Things* because it has an exciting story, a great mix of **mystery and emotion**, and strong **character development**.  
@@ -32,7 +32,7 @@ It also brings a nostalgic feeling because of the 1980s setting, music, and fash
 
 ---
 
-### 🔗 Learn More
+###  Learn More
 - [Netflix: Stranger Things](https://www.netflix.com/ph/title/80057281)  
 - [Stranger Things Wiki](https://strangerthings.fandom.com/wiki/Stranger_Things)
 
