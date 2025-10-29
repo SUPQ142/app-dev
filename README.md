@@ -2,14 +2,14 @@
 My first repository
 # 🎥 My Favorite Series: **Stranger Things**
 
-## 📘 Overview
+##  Overview
 **Stranger Things** is a science fiction and horror series created by *The Duffer Brothers*.  
 It is set in the 1980s in a small town called Hawkins, where a young boy disappears and strange supernatural events begin to unfold.  
 The show mixes **mystery**, **friendship**, and **sci-fi adventure**.
 
 ---
 
-### 👩‍🔬 Main Characters
+###  Main Characters
 - **Eleven (Millie Bobby Brown)** – A girl with telekinetic powers who escapes from a secret lab.  
 - **Mike Wheeler** – One of the kids who becomes Eleven’s closest friend.  
 - **Jim Hopper** – The town’s police chief who investigates the strange happenings.  
@@ -25,7 +25,7 @@ It also brings a nostalgic feeling because of the 1980s setting, music, and fash
 
 ---
 
-### 🎬 My Favorite Seasons
+###  My Favorite Seasons
 1. **Season 1** – The mystery of Will’s disappearance and Eleven’s powers.  
 2. **Season 3** – The Mind Flayer returns and the group faces new threats.  
 3. **Season 4** – Vecna becomes one of the scariest villains in the series.
